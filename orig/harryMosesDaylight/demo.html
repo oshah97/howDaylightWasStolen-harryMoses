@@ -1,0 +1,53 @@
+<html>
+<head><title>tooltip demo</title></head>
+<script type="text/javascript" src="tooltip.js">
+</script>
+<link rel="stylesheet" href="tooltip.css" type="text/css" />
+</head>
+
+<body>
+ <div id="t1" class="tip">This is a Javascript Tooltip</div> 
+<div id="t2" class="tip">
+  <table align="center" width="250" border="0" cellspacing="0" cellpadding="5" bgcolor="#008cff">
+    <tr>
+      <td valign="bottom" align="center"> <img src="graphics/head.gif" width="250" height="90" border="0" alt="" /></td>
+    </tr>
+    <tr><td  valign="bottom" align="center">Please visit my site</td>
+    </tr>
+</table>
+</div>
+
+ <div id="t3" class="tip">another <br> Javascript Tooltip</div> 
+
+<br>
+ <a href="#" onmouseout="popUp(event,'t1')" onmouseover="popUp(event,'t1')"  onclick="return false"> tip1 </a>
+<br>
+ <a href="#" onmouseout="popUp(event,'t2')" onmouseover="popUp(event,'t2')"  onclick="return false">  tip2 </a>
+<br>
+<br>
+ <a href="#" onmouseout="popUp(event,'t3')" onmouseover="popUp(event,'t3')"  onclick="return false">  tip3 </a>
+<br>
+
+
+<br>
+ <span onmouseout="popUp(event,'t3')" onmouseover="popUp(event,'t3')"  onclick="return false">  tip3 as span </span>
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+</body>
+
+
+</html>
+
