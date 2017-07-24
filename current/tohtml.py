@@ -53,7 +53,7 @@ def formatWord (tipTagCount, db, key):
     tokens = key.split ('::')
     # s = '<a href="javascript: popupPlay (\'%s\')">%s</a>' % (tokens [2], tokens [1])
 
-    s = '<audio id="%s" src="%s" preload="auto"></audio> <button onclick="document.getElementById(\'%s\').play();">&nbsp;</button>' % (tokens[1], tokens[2], tokens[1])
+    s = '<audio loop controls id="%s" src="%s" preload="auto"></audio> <button onclick="document.getElementById(\'%s\').play();">&nbsp;</button>' % (tokens[1], tokens[2], tokens[1])
     sys.stdout.write (s)
     return (tipTagCount)
 
@@ -91,8 +91,10 @@ db = readDatabase ()
 printHeader (sys.argv [2])
 
 lines = open (sys.argv [1]).read().split ('\n')
+lineCount = 0
 sys.stderr.write ('line count: %d\n' % len (lines))
 for line in lines:
+  lineCount = lineCount + 1;
   line = line.strip ()
   if (line.find ('#') == 0):
     continue
@@ -101,7 +103,7 @@ for line in lines:
     sys.stdout.write ('\n')
     continue
   tokens = line.split ()
-  #sys.stderr.write ('%s\n' % tokens)
+  sys.stderr.write ('%d) %s\n' % (lineCount, tokens))
   for token in tokens:
     token = token.strip ()
     tipTagCount = formatWord (tipTagCount, db, token)

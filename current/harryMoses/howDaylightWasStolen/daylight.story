@@ -8,13 +8,13 @@ gloss::this land, it was dark in the remote long.ago
 link::HM1::mp3/hm-002a.mp3
 BR
 
-tu- s- xw- hadhad -exw SP ti?e? SP acil SP dun SP dil SP gwe- s- cal SP kwi SP gwe- dexw- kwed -(d)xw -cel SP kwi SP s- lex -il PD SP SP
+tu- s- xw- hadhad -exw SP ti?e? SP aciltalbixw SP SP gwe- s- cal SP kwi SP gwe- dexw- kwed -(d)xw -cel SP kwi SP s- lex -il PD SP SP
 gloss::now.there.was.talk this people, they, by.what.means, uncertin means, can we get distant daylight?
 link::HM2::mp3/hm-003.mp3 SP SP
 link::half-speed::mp3/hm-003-halfSpeed.mp3
 
 BR
-?a? SP kwi SP s- lex -il ?al SP ?al SP kwi SP q'xw -ulgwedxw SP gwel SP ?es- cal SP kwi SP gwe- dexw- kwed -(d)xw -cel PD SP SP
+?a? SP kwi SP s- lex -il SP ?al SP kwi SP q'xw -ulgwedxw SP gwel SP ?es- cal SP kwi SP gwe- dexw- kwed -(d)xw -cel PD SP SP
 gloss::there.is.daylight.in the.upriver.country how.do.we.get.it?
 link::HM3::mp3/hm-006.mp3
 

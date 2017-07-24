@@ -1,57 +1,58 @@
 SP	 &nbsp; 	space	formatting character
 PD	.	period	formatting character
 BR	<br>	newline	formatting character
--a	-a	lexical linking element	
+-a	-a	lexical linking element
 ?a?	&#x294;a&#x294;	there	be there; be in existence; be there in time or space
 ?a	&#x294;a&#x294;	there	be there; be in existence; be there in time or space
 -ab	-ab	way; method used to do something	derivational suffix
 ?al	&#x294;al	in/at	locative preposition
 ?es-	&#x294;&#x4D9;s-	stative	prefix of stative aspect
-?i	&#x294;i	and	
+?i	&#x294;i	and
 -abac	-abac	body, bulky object, enclosed area	lexical suffix
-?acec	&#x294;ac&#x4D9;c	be there, specifically there, there exists	
-acil	aci&#x142;	momentary pause, wait. [doubtful]	
--al	-al	lexical linking element	
+?acec	&#x294;ac&#x4D9;c	be there, specifically there, there exists
+acil	aci&#x142;	momentary pause, wait. [doubtful]
+aciltalbixw           aci&#x142ta[l]bix&#x2b7; people
+-al	-al	lexical linking element
 as-	as-	stative	prefix of stative aspect
--b	-b	suffix creating an agent-oriented verb	
--eb	-&#x4D9;b	suffix creating an agent-oriented verb	
-be	b&#x4D9;	unknown	
+-b	-b	suffix creating an agent-oriented verb
+-eb	-&#x4D9;b	suffix creating an agent-oriented verb
+be	b&#x4D9;	unknown
 be?-	b&#x4D9;&#x294;-	again, anew, additional, another	inflectional additive prefix
-besad	b&#x4d9;sad	grow dark	
-bez	b&#x4D9;z	unknown	
-bibsceb	bibsc&#x30c;&#x4D9;b	mink	
-buks	buks	unknown	
-butz	butz	unknown	
-buus	buus	four	
-cagwa	ca'&#x294;g&#x2b7;a	wash	
-cal	c&#x30c;al	how	 
-cal2	c&#x30c;al	chase, follow, pursue, overtake	
+besad	b&#x4d9;sad	grow dark
+bez	b&#x4D9;z	unknown
+bibsceb	bibsc&#x30c;&#x4D9;b	mink
+buks	buks	unknown
+butz	butz	unknown
+buus	buus	four
+cagwa	ca'&#x294;g&#x2b7;a	wash
+cal	c&#x30c;al	how
+cal2	c&#x30c;al	chase, follow, pursue, overtake
 ceb	c&#x4D9;b	second; two	compare sali&#x294;
 cel	c&#x4D9;&#x142;	our/we/us	1st peson plural predicate particle; possessive particle
 -cel	-c&#x4D9;&#x142;	our/we/us	1st peson plural predicate particle; possessive particle
-c'it	c&#x30c;'it	near	
-coyo	coyo	unknown	
+c'it	c&#x30c;'it	near
+coyo	coyo	unknown
 -cut	-cut	myself, yourself, himself, herself, itself, themselves	reflexive suffix, from -t-sut
-cut2	cut	speak, say, talk, tell; any sort of verbal utterance	
-d-	d-	unknown	
-de	d&#x4D9;	unknown	
-del	del	unknown	
+cut2	cut	speak, say, talk, tell; any sort of verbal utterance
+d-	d-	unknown
+de	d&#x4D9;	unknown
+del	del	unknown
 dexw-	d&#x4D9;x&#x2b7;-	means by which	inflectional suffix
 d(exw)-	d(&#x4D9;x&#x2b7;)-	means by which	inflectional suffix
 di?e?	di&#x294;&#x4D9;&#x294;	here	occurs with ti&#x294;&#x4D9;&#x294; as part of the demonstrative phrase usually having no independent meaning
 dil	di&#x142;	the one who, the thing that, that which, the aforementioned	[doubtful]
-dun	dun	unknown	
+dun	dun	unknown
 dxw-	dx&#x2b7;-	permeate, throughout, filled with, covered with; proclivity	derivational suffix which marks stems as serving to contain
 d(xw)-	d(x&#x2b7;)-	permeate, throughout, filled with, covered with; proclivity	derivational suffix which marks stems as serving to contain
 -dxw	-d&#x4D9;x&#x2b7;	loss of control	transitive suffix expressing lack of control
 -(d)xw	-(d)&#x4D9;x&#x2b7;	loss of control	transitive suffix expressing lack of control
 -d	-d	loss of control	transitive suffix expressing lack of control
 dxwal	dx&#x2b7;al	toward, until	(possibly composed from dx&#x2b7; + al)
--ed	-&#x4D9;d	transitive	
+-ed	-&#x4D9;d	transitive
 -exw	-&#x4D9;x&#x2b7;	now, new situation	=
 ?e	&#x294;&#x4D9;	about, in, of, on	particle linking phrases of various semantic roles to a predicate or other clause constituent
 ?es-	&#x294;&#x4D9;s-	stative	prefix of stative aspect
-gwaxw	g&#x2b7;ax&#x2b7;	stroll, go for a walk (agent is always plural)	
+gwaxw	g&#x2b7;ax&#x2b7;	stroll, go for a walk (agent is always plural)
 gwe-	g&#x2b7;&#x4D9;-	subjunctive	inflectional subjunctive prefix indicating doubt, events contrary to fact, that which is uncertainly known
 gwel	g&#x2b7;&#x4d9;l	and	conjunction; sentiential adverb, topicalizes
 -gwil	-g&#x2b7;i&#x142;	canoe, waterway; curved side; narrow passageway.	lexical suffix
@@ -59,47 +60,47 @@ hadhad	(h)ad-had	&#x294;&#x4D9;had: talk, reduplicative 3	-
 hakw	ha&#x294;k&#x2b7;	ago	past; ago; for a long time
 hebu?	h&#x4D9;bu&#x294;	 exhhortative to storyteller said periodically by audience	children were told that if they failed to repeat this word during a story, they would become hunchbacked.
 helgwa	h&#x4D9;lg&#x2b7;a	they, them, their, theirs (optional, for emphasis)	3rd person plural predicate particle
-huyu	huyu	do, make, prepare something; get ready, prepare for	
+huyu	huyu	do, make, prepare something; get ready, prepare for
 -ic	-ic&#x30c;	cover(ing), surface; on top of, over; servies of items on a string, cord; spine	[lexical suffix]
 -il	-il	become	derivational suffix: reach or achieve state or position
-kaw'qs	kaw'qs	raven	
-kwed	k&#x2b7;&#x4D9;d	get	
+kaw'qs	kaw'qs	raven
+kwed	k&#x2b7;&#x4D9;d	get
 kwi	k&#x2B7;i	remote	adjectival demonstrative for remote, hypothetical, or non-existent entities
 le-	l&#x4D9;-	actions ongoing, serial, continuous, developing, while moving	inflectional prefix of progressive aspect
 (l)e-	(l)&#x4D9;-	actions ongoing, serial, continuous, developing, while moving	inflectional prefix of progressive aspect
 legw-legw-eb	l&#x4D9;g&#x2b7;-l&#x4D9;g&#x2b7;-&#x4D9;b	youth, young man	reduplicative 2
 lex	l&#x4D9;x&#x30c;	light	verb.  be visible through illumination
-lidze	lidz&#x4D9;	unknown	
-lixw	lix&#x2b7;	three	
-q'xw	q'x&#x2b7;	located upstream, up	
+lidze	lidz&#x4D9;	unknown
+lixw	lix&#x2b7;	three
+q'xw	q'x&#x2b7;	located upstream, up
 s-	s-	nominalize	Hess: nominalize; Kinkade: continuative aspect; convert process to entity; causes a verb to hold still
--s	-s	third person possesive suffix	
-saxweb	sax&#x2b7;&#x4D9;b	jump; sprint	
-s(a)xweb	s(a)x&#x2b7;&#x4D9;b	jump; sprint	
+-s	-s	third person possesive suffix
+saxweb	sax&#x2b7;&#x4D9;b	jump; sprint
+s(a)xweb	s(a)x&#x2b7;&#x4D9;b	jump; sprint
 se+sali	s&#x4D9;+sali	two	reduplicative 4
-si?	si&#x294;	right there	
-ska	ska	unknown	
+si?	si&#x294;	right there
+ska	ska	unknown
 swatixwted	swatix&#x2b7;t&#x4d9;d	land	-
 t'ed	t'&#x4D9;d	in a row, lined up	verb
-telawil	t&#x4D9;lawil	run, especially for a sustained period	
+telawil	t&#x4D9;lawil	run, especially for a sustained period
 ti?e?	ti&#x294;&#x4d9;&#x294;	this	proximal adjetival demonstrative
-tlelay	&#x03bb;'&#x4D9;lay	shovel-nose canoe	
+tlelay	&#x03bb;'&#x4D9;lay	shovel-nose canoe
 tlu-	&#x03bb;'u-	generally, usually	(inflectional habitual prefix)
-tlub	&#x03bb;'ub	good, fine, all right, well; should, had better, ought;	
--tshow	-tshow	unknown	
+tlub	&#x03bb;'ub	good, fine, all right, well; should, had better, ought;
+-tshow	-tshow	unknown
 t(u)-	t(u)-	past	inflectional past prefix, past time, especially the remote past
 tu-	tu-	past	inflectional past prefix, past time, especially the remote past
-tuxw	tux&#x2b7;	contrary to expectation	
+tuxw	tux&#x2b7;	contrary to expectation
 -txw	-tx&#x2b7;	make someone do something	causitve transitive suffix creating patient-oriented verb stems
 u-	u-	action viewed in its entirety	verbal inflectional prefix of perfective aspect
 -ubul	-ubu&#x142;	us	first person plural patient suffix; see -s
 -ulgwedxw	-ulg&#x2b7;&#x4D9;dx&#x2b7;	land	lexical suffix
-?ulul	&#x294;ulu&#x142;	travel by water	
-u?xw	u&#x294;x&#x2b7;	still, yet	
-?uxw	&#x294;ux&#x2b7;	go	
-xekw	x&#x30c;&#x4D9;k&#x2b7;	turn over, overturn	
-xw-	x&#x2b7;-	container [derivational prefix]	# compare dx?- permeate 
-xwe?a?xwe?	x&#x2b7;&#x4D9;&#x294;a&#x294;x&#x2b7;&#x4D9;&#x294;	light weight, lightfooted	
-xwe?a?xw(e?)	x&#x2b7;&#x4D9;&#x294;a&#x294;x&#x2b7;(&#x4D9;&#x294;)	light weight, lightfooted	
+?ulul	&#x294;ulu&#x142;	travel by water
+u?xw	u&#x294;x&#x2b7;	still, yet
+?uxw	&#x294;ux&#x2b7;	go
+xekw	x&#x30c;&#x4D9;k&#x2b7;	turn over, overturn
+xw-	x&#x2b7;-	container [derivational prefix]	# compare dx?- permeate
+xwe?a?xwe?	x&#x2b7;&#x4D9;&#x294;a&#x294;x&#x2b7;&#x4D9;&#x294;	light weight, lightfooted
+xwe?a?xw(e?)	x&#x2b7;&#x4D9;&#x294;a&#x294;x&#x2b7;(&#x4D9;&#x294;)	light weight, lightfooted
 xwi	x&#x2b7;i&#x294;	not	predicate adverb
 xwul'	x&#x30c;&#x2b7;ul'	only, merely, simply, just, as	predicate adverb
