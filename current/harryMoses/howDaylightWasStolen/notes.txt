@@ -1,0 +1,69 @@
+Abbreviations
+ˑ -> emphatic lengthening
+intns ->intensivity
+= -> clitic boundary
+irr -> irrealis
+– -> affix boundary
+map -> middle applicative
+• -> lexical suffix boundary
+md -> middle
+1, 2, 3 -> first, second, third person
+neg -> negative
+act -> activity
+negp -> negative proclitic
+add -> additive
+nm -> nominalizer
+adnm -> adjunctive nominalizer
+nspec -> non-specific
+altv -> allative applicative
+obj -> object
+assc -> associative
+pass -> passive
+attn -> attenuative
+pfv -> perfective
+auto -> autonomous
+pl -> plural
+cnn -> connective
+po -> possessive
+cntrpt -> centripetal
+Pr -> preposition
+coord -> coordinative
+proc -> proclititive
+ctd -> contained
+prog -> progressive
+dat -> dative applicative
+prop -> propriative
+dc -> diminished control
+prox -> proximal
+dim.eff -> diminished effectiveness
+prtv -> partitive
+dist -> distal
+ptcl -> particle
+dma -> demonstrative adverbial
+qtv -> quotative
+dsd -> desiderative
+rcp -> reciprocal
+dstr -> distributive
+refl -> reflexive
+ecs -> external causative
+rem -> remote/hypothetical
+fem -> feminine
+rlnl -> relational
+foc -> focus
+sbj -> subjunctive
+hab -> habitual
+sbrd -> subordinate
+hmn -> human
+sconj -> sentential conjunction
+ics -> internal causative
+sg -> singular
+impf -> imperfective
+spec -> specific
+inch -> inchoative
+ss -> secondary suffix
+incrp -> incorporative
+stat -> stative
+int -> interrogative
+sub -> subject
+intj -> interjection
+unq -> unique

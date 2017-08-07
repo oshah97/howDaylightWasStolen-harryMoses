@@ -1,22 +1,24 @@
 # tohtml.py:  read a tmpl file, consult the database, and emit an html file
 #------------------------------------------------------------------------------------------
 import sys, os
+import pdb
 #------------------------------------------------------------------------------------------
 tipTagCount = 0
 #------------------------------------------------------------------------------------------
 def readDatabase ():
 
-  f = '%s/%s' % (os.environ ['HOME'], 'proj/lushootseed/words.tsv')
+  #f = '%s/%s' % (os.environ ['HOME'], 'proj/lushootseed/words.tsv')
   f = "words.tsv"
   lines = open (f).read().split ('\n')
+  print(lines)
   result = {}
   for line in lines:
     tokens = line.split ('\t')
-    #print tokens
-    if (len (tokens) != 4):
-      continue
+    #print(tokens)
+    if (len (tokens) == 3):
+       tokens.append(" ")
     simple = tokens [0]
-    #print 'simple: %s' % simple
+    #print('simple: %s' % simple)
     lushootseed = tokens [1]
     shortDef = tokens [2]
     longDef = tokens [3]
@@ -53,10 +55,11 @@ def formatWord (tipTagCount, db, key):
     tokens = key.split ('::')
     # s = '<a href="javascript: popupPlay (\'%s\')">%s</a>' % (tokens [2], tokens [1])
 
-    s = '<audio loop controls id="%s" src="%s" preload="auto"></audio> <button onclick="document.getElementById(\'%s\').play();">&nbsp;</button>' % (tokens[1], tokens[2], tokens[1])
+    s = '<audio loop controls style="width:100px" id="%s" src="%s" preload="auto"></audio> <button onclick="document.getElementById(\'%s\').play();">&nbsp;</button>' % (tokens[1], tokens[2], tokens[1])
     sys.stdout.write (s)
     return (tipTagCount)
 
+  #pdb.set_trace()
   word = db [key][0]
   definition = '%s; %s' % (db [key][1], db [key][2])
   tipTag = 't%d' % tipTagCount
@@ -82,10 +85,12 @@ def formatGloss (tipTagCount, line):
   return tipTagCount
 
 #------------------------------------------------------------------------------------------
+#if (__name__ == "main"):
 if (len (sys.argv) != 3):
   sys.stderr.write ('usage: python tohtml.py <simple story file> story title\n')
   sys.exit (1)
 
+#print("about to call readDatabase")
 db = readDatabase ()
 
 printHeader (sys.argv [2])

@@ -9,7 +9,7 @@ link::HM1::mp3/hm-002a.mp3
 BR
 
 tu- s- xw- hadhad -exw SP ti?e? SP aciltalbixw SP SP gwe- s- cal SP kwi SP gwe- dexw- kwed -(d)xw -cel SP kwi SP s- lex -il PD SP SP
-gloss::now.there.was.talk this people, they, by.what.means, uncertin means, can we get distant daylight?
+gloss::now.there.was.talk this people, they, by.what.means, uncertain means, can we get distant daylight?
 link::HM2::mp3/hm-003.mp3 SP SP
 link::half-speed::mp3/hm-003-halfSpeed.mp3
 
