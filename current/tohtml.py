@@ -10,7 +10,7 @@ def readDatabase ():
   #f = '%s/%s' % (os.environ ['HOME'], 'proj/lushootseed/words.tsv')
   f = "words.tsv"
   lines = open (f).read().split ('\n')
-  print(lines)
+  #print(lines)
   result = {}
   for line in lines:
     tokens = line.split ('\t')
@@ -55,7 +55,7 @@ def formatWord (tipTagCount, db, key):
     tokens = key.split ('::')
     # s = '<a href="javascript: popupPlay (\'%s\')">%s</a>' % (tokens [2], tokens [1])
 
-    s = '<audio loop controls style="width:100px" id="%s" src="%s" preload="auto"></audio> <button onclick="document.getElementById(\'%s\').play();">&nbsp;</button>' % (tokens[1], tokens[2], tokens[1])
+    s = '<audio loop controls style="width:80px" id="%s" src="%s" preload="auto"></audio>' % (tokens[1], tokens[2])
     sys.stdout.write (s)
     return (tipTagCount)
 

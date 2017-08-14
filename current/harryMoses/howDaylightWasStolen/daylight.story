@@ -1,6 +1,8 @@
 ?al SP kwi SP tu- SP SP ?al SP kwi SP tu- hakw SP gwel SP xwi SP gwe- tu- s- lex -il PD SP SP
+gloss::In the distant past there was no daylight.
 gloss::in remote long.ago,  in remote long.ago for a long time, there was no daylight
 link::HM0::mp3/hm-001.mp3
+link::HM0::mp3/hm-001-halfSpeed.mp3
 BR
 
 ti?e? SP swatixwted SP gwel SP t(u)- as- besad SP ?al SP kwi SP tu- hakw PD SP SP
@@ -20,13 +22,18 @@ link::HM3::mp3/hm-006.mp3
 
 BR BR
 tu- huyu -cut -exw SP ti?e? SP se+sali SP legw-legw-eb PD SP
+gloss::they.now.prepared.themselves these.two.young.men.
 link::HM4::mp3/hm-009.mp3
+
 
 BR
 tu- cagwa -cut -exw PD SP
+gloss::they.now.washed.themselves.
 link::HM5::mp3/hm-010.mp3
+
 BR
-tu- huyu -tshow SP  be SP ska SP bez SP xwe?a?xwe? -s  SP gwe- s- u- telawil -s SP  helgwa PD SP
+tu- huyu -cut SP  helgwa SP dxw?al SP s- xwe?a?xwe? -s  SP gwe- s- u- telawil -s SP  helgwa PD SP
+gloss::prepared.themselves.they.did towards.their.light-footed swift.running
 link::HM5a::mp3/hm-011.mp3 SP
 link::slow::mp3/hm-011-halfSpeed.mp3
 
