@@ -1,3 +1,9 @@
 body{
-    font-size: 24px;
+   font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+   font-size: 24px;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: 500;
+   line-height: 26.4px;
+   border: 1px;
 }
