@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>cyjs &amp; dt</title>
+     <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.2.4/cytoscape.js"></script>
+<style>
+#cyjs{
+  height: 1000px;
+  width: 95%;
+  }
+</style>
+
+<script>
+$(document).ready(function(){
+    console.log("document ready");
+    var dataString = '{"nodes":[{"data":{"id":"pekwib"},"position":{"x":779.5, "y":500 }}],' +
+                     ' "edges":[{"data":{"source":"BO","target":"BO","id":"fc73a772-6c77-40e6-9ba1-f8f9d908c206"},"position":{}}]}';
+    var network = {nodes:[
+                      {data:{id:'til', label: 'ti\u0142'}},
+                      {data:{id:'tu-',  label: 'tu-', 'width': 3}},
+                      {data:{id:'32',  label: '[s]-', 'width': 4}},
+                      {data:{id:'pekwib', label: 'p\u0259k\u02b7ib', 'width': 6}},
+                      {data:{id:'34',  label: '-i', 'width': 2}},
+                      {data:{id:'35',  label: '-d', 'width': 2}},
+                      {data:{id:'36',  label: '-s', 'width': 2}},
+		      ]};
+                   //edges:[{data:{source:'a', target:'a'}}]};
+
+    options = {container: $('#cyjs'),
+               elements: network,
+               style: cytoscape.stylesheet()
+                   .selector('node').style({'background-color': 'white',
+                                            'label': 'data(label)',
+                                            'text-valign': 'center',
+                                            'text-halign': 'center',
+					    'width': "10px",
+                                            'font-style': 'oblique',
+					    'font-family': 'Times, Palatino, Times, Courier, "Times New Roman", Times, serif',
+                                            'border-width': 0})
+                   .selector('node:selected').style({'overlay-opacity': 0.2,
+                                                     'overlay-color': 'gray'})
+                   .selector('edge').style({'line-color': 'black',
+                                            'target-arrow-shape': 'triangle',
+                                            'target-arrow-color': 'black',
+                                            'curve-style': 'bezier'})
+                   .selector('edge:selected').style({'overlay-opacity': 0.2,
+                                                     'overlay-color': 'gray'})
+                 }; // options
+    window.cy = cytoscape(options);
+    function resizeHandler(event){
+        $("#cyjs").height(window.innerHeight * 0.95);
+	cy.fit(200)
+        }
+    window.addEventListener("resize", resizeHandler, false)
+    setTimeout(function() {resizeHandler();}, 0);
+   }); // document.ready
+</script>
+
+</head>
+<body>
+<div id="titleDiv"> aci&#x142ta[l]bix&#x2b7;</div>
+<div id="cyjs"></div>
+
+</body>
+</html>
+

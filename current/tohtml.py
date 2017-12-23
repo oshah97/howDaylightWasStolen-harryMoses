@@ -35,7 +35,6 @@ def printHeader (title):
   <script type="text/javascript" src="../../tooltip.js"></script>
   <!-- script type="text/javascript" src="../../mp3popup.js"></script -->
   <link rel="stylesheet" href="../../tooltip.css" type="text/css" />
-  <link rel="stylesheet" href="../../fonts.css" type="text/css" />
 </head>
 <body>
 <center>
@@ -55,7 +54,7 @@ def formatWord (tipTagCount, db, key):
     tokens = key.split ('::')
     # s = '<a href="javascript: popupPlay (\'%s\')">%s</a>' % (tokens [2], tokens [1])
 
-    s = '<audio loop controls style="width:80px" id="%s" src="%s" preload="auto"></audio>' % (tokens[1], tokens[2])
+    s = '<audio controls style="width:80px" id="%s" src="%s" preload="auto"></audio>' % (tokens[1], tokens[2])
     sys.stdout.write (s)
     return (tipTagCount)
 
